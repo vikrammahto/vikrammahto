@@ -1,6 +1,21 @@
-- 👋 Hi, I’m Vikram Mahto
-- 👀 I’m interested in Frontend Development.
-- 🌱 I’m currently learning JavaScript.
-- 💞️ I’m looking to collaborate on Frontend Development projects. See [my tech stack](https://vikrammahto-com.vercel.app/)
-- 📫 How to reach me ... [https://www.linkedin.com/in/vikrammahto](https://www.linkedin.com/in/vikrammahto)
+# 👋 Hi, I’m Vikram Mahto
 
+🚀 **Frontend Developer**  
+I have 3 years of experience in frontend development, specializing in creating clean, responsive, and user-centric web applications.  
+
+👀 **What I’m Interested In:**  
+- Frontend Development with React.js and Next.js  
+- Building engaging and scalable web solutions  
+
+🌱 **Currently Learning:**  
+- Advanced JavaScript concepts  
+- Exploring backend technologies to become a more versatile developer  
+
+💼 **Let’s Collaborate:**  
+I’m open to collaborating on frontend projects or building exciting side projects together! Check out [my website](https://vikrammahto.com).  
+
+📫 **Let’s Connect:**  
+- [LinkedIn](https://www.linkedin.com/in/vikrammahto)  
+- [Twitter](https://twitter.com/vikrammahto) (optional, if active)  
+
+✨ Let’s build something awesome!
