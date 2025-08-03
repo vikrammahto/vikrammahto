@@ -1,1 +1,1 @@
- Building • learning • growing daily
+ Building • learning • growing
